@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+body {color: antiquewhite;background-image: url(https://i.pinimg.com/736x/ce/37/09/ce370976cd28a2e2853fec7b95e13b3b.jpg) ;background-size: cover;
+  background-position: center;;}
+header {width: 60%; padding-bottom:-40px; border-bottom:2px solid antiquewhite;color: antiquewhite; text-align: center; font-size: 40px ; margin: 0 auto; }
+
+.small {margin-top: -40px; font-weight: 600;}
+
+.playlist {padding-right:10px;   position: relative;
+  top: -300px;;border: 0.5px solid antiquewhite;width: 63px;% ;border-radius: 16px;backkground-color: rgba(216, 209, 209, 0.4); margin-left: 100px; width: 40%; height: 70%; color: antiquewhite; margin-bottom: -140px;}
+.head{text-align: center;}
+
+h2{font-size: 23px;;}
+.albumcover {height: 100px; width:100px;}
+h3 {margin-left: 120px; padding-top: -60px; margin-top: -110px; ;}
+.one {text-align: center;}
+a {color: antiquewhite; }
+.description {margin-left: 120px; margin-top: -15px;;}
+.songs{display: flex; flex-direction: column; justify-content: space-between; gap: 10px;}
+.albumcover {margin-bottom: 10px; margin-left: 5px;;}
+.sunmi {margin-top: 20px;;}
+
+.places {border-radius: 1rem;border: 0.5px solid antiquewhite;margin-top: -27px;backkground-color: rgba(216, 209, 209, 0.4); ; width: 94%; text-align: center; margin-left: 32px;}
+h4 {font-size: 23px; text-align: center;}
+.list {font-size: 20px; text-align: center; ;list-style: none; padding-left: -70px;}
+footer {border-top: 2px solid antiquewhite; margin:auto; margin-top: 25px;; width: 60%;}
+.foot {text-align: center; font-size: 23px; top: -50px;}
+
+
+.question {font-size: 30px;}
+.quiz {; margin-left: 70px; margin-top: 30px; margin-bottom: 0;}
+.playlist,.quiz {display: inline-block; }
+label {font-size: 20px;;display: block;}
+fieldset {margin-bottom: 10px; border-radius: 1rem; border: 0.5px solid antiquewhite;}
+input, label {display: block;}
+button {text-align: center; margin: 0 auto;; display: flex; justify-content: center;}
+textarea {margin-bottom: 7px;;}
